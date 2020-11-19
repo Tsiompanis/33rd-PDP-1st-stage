@@ -1,2 +1,2 @@
 # 33rd-PDP-1st-stage
-My solution for the first stage of the panhellenic programming competition (PDP)
+My submission for the first stage of the Panhellenic Programming Competition (PDP)
